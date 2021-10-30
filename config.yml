@@ -1,0 +1,17 @@
+Token: ODE5NjMzMTEzODQzMzY3OTk3.YEpc0g.zkGrPyLzliMsWjWGsLM3uHnfIMY
+
+guess_channel_id: 821640992196788235
+
+messages:
+  correct_guess:
+    description: "{user.mention} Congratulations, you guessed one of today's magic words! You win a prize!"
+    color: 0x00ff00
+  words_added:
+    description: "New words have been added!"
+    color: 0x00ff00
+  data:
+    description: "Here is the winner data!"
+    color: 0x0000ff
+  clear_data:
+    description: "Winner data has been cleared!"
+    color: 0x0000ff
